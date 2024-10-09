@@ -21,6 +21,8 @@ public class BookList {
 			System.out.println("Book " + counter + ": " + book);
 			counter++;
 		}
+		
+		
 
 		// display fitstBook
 		System.out.println(myBooks.getFirst());
